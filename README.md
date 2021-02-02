@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# 0xBTC-Explorer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a base framework testing out 0xBtc's theGraph framework, found here: https://thegraph.com/explorer/subgraph/admazzola/mineable-token-0xbtc?selected=playground
 
 ## Available Scripts
 
